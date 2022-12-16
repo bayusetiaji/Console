@@ -21,7 +21,11 @@ int main()
 
 	set_color(7, 0);
 	set_xy(1, 20);
+
 	system("pause");
+	system("cls");
+
+
 
 	return 0;
 }
